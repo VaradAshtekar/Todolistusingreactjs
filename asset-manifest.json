@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Todolistusingreactjs/static/css/main.9ddfadaf.chunk.css",
+    "main.js": "/Todolistusingreactjs/static/js/main.61b03487.chunk.js",
+    "main.js.map": "/Todolistusingreactjs/static/js/main.61b03487.chunk.js.map",
+    "runtime-main.js": "/Todolistusingreactjs/static/js/runtime-main.7231abd2.js",
+    "runtime-main.js.map": "/Todolistusingreactjs/static/js/runtime-main.7231abd2.js.map",
+    "static/js/2.826712cf.chunk.js": "/Todolistusingreactjs/static/js/2.826712cf.chunk.js",
+    "static/js/2.826712cf.chunk.js.map": "/Todolistusingreactjs/static/js/2.826712cf.chunk.js.map",
+    "index.html": "/Todolistusingreactjs/index.html",
+    "precache-manifest.ae267bf86b3dca412458363898515812.js": "/Todolistusingreactjs/precache-manifest.ae267bf86b3dca412458363898515812.js",
+    "service-worker.js": "/Todolistusingreactjs/service-worker.js",
+    "static/css/main.9ddfadaf.chunk.css.map": "/Todolistusingreactjs/static/css/main.9ddfadaf.chunk.css.map",
+    "static/js/2.826712cf.chunk.js.LICENSE.txt": "/Todolistusingreactjs/static/js/2.826712cf.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Todolistusingreactjs/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7231abd2.js",
+    "static/js/2.826712cf.chunk.js",
+    "static/css/main.9ddfadaf.chunk.css",
+    "static/js/main.61b03487.chunk.js"
+  ]
+}
